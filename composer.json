@@ -1,0 +1,15 @@
+{
+    "name": "fmujakitz/auto-slug",
+    "description": "Kirby Auto Slug Plugin",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Faris Mujakić",
+            "email": "faris.mujakic@gmail.com"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    }
+}
