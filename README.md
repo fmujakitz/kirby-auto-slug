@@ -63,7 +63,7 @@ page: {
 ```
 
 ## Todos
-- andomness
+- randomness
 - dx
 
 
